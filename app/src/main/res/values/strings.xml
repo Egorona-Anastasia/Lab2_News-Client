@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RetrofitDemo</string>
+    <string-array name="categories">
+        <item>General</item>
+        <item>World</item>
+        <item>Business</item>
+        <item>Technology</item>
+        <item>Entertainment</item>
+        <item>Sports</item>
+        <item>Science</item>
+        <item>Health</item>
+    </string-array>
+</resources>
